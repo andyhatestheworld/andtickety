@@ -9,7 +9,4 @@ Users can browse different ticket categories, securely purchase tickets via Stri
 
 This project focuses on making ticketing simple, fast, and convenient for both users and destination operators.
 
-
-<img src="assets/logo.png" alt="Logo Image" </img>
-
 ![Logo](assets/logo.png)
