@@ -1,0 +1,29 @@
+[
+    {
+        "id": "evt_001",
+        "event_name": "NUME EVENIMENT",
+        "tickets": {
+            "category_a": {
+                "name": "Categoria A",
+                "price": 200
+            },
+            "category_b": {
+                "name": "Categoria B",
+                "price": 150
+            },
+            "category_c": {
+                "name": "Categoria C",
+                "price": 100
+            },
+            "category_d": {
+                "name": "Categoria D",
+                "price": 50
+            }
+        },
+        "max_tickets_per_category": 5,
+        "images": [
+            "assets/images/event/BANNER1.PNG",
+            "assets/images/event/BANNER2.PNG"
+        ]
+    }
+]
