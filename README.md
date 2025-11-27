@@ -21,11 +21,15 @@ Web interface (desktop):
 ![Web 1](web-preview/web/1.png)
 ![Web 2](web-preview/web/2.png)
 ![Web 3](web-preview/web/3.png)
+![Web 4](web-preview/web/4.png)
+![Web 5](web-preview/web/5.png)
 
 Mobile preview:
 
 ![Mobile 1](web-preview/mobile/1.png)
 ![Mobile 2](web-preview/mobile/2.png)
+![Mobile 3](web-preview/mobile/3.png)
+![Mobile 4](web-preview/mobile/4.png)
 
 ---
 
